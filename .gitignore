@@ -38,6 +38,7 @@ venv/
 !/docs/media/jianying-import-frames.png
 !/docs/media/hypit-original-preview.mp4
 !/docs/media/jianying-import-preview.mp4
+!/docs/media/donate-card.png
 *.ttf
 *.otf
 *.sqlite

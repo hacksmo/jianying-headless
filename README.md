@@ -160,3 +160,15 @@ python3 -m unittest discover -s tests -v
 第三方内容继续适用原许可证，详见 [第三方声明](THIRD_PARTY_NOTICES.md)。
 本项目不是 MIT / Apache-2.0 整包授权，代码许可也不包含剪映集成授权、账号权益或素材许可。
 分发边界见 [分发范围](docs/DISTRIBUTION-SCOPE.md)。
+
+## ☕ 请我喝杯咖啡
+
+如果这个项目帮到了你，欢迎赞赏支持，让更新更有动力：
+
+<p align="center">
+  <img src="docs/media/donate-card.png" alt="请我喝杯咖啡 - 微信赞赏 / 支付宝转账" width="480">
+</p>
+
+<p align="center">
+  左：微信赞赏码　右：支付宝转账码
+</p>
